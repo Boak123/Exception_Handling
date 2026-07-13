@@ -1,3 +1,16 @@
+"""Write a program that:
+
+Asks the user for two numbers.
+Divides the first number by the second.
+Handles:
+ValueError
+ZeroDivisionError
+If no error occurs, print the result.
+Always print:
+Thank you for using the calculator.
+"""
+
+
 try:
     num1 = int(input("Enter the first number: "))
     num2 = int(input("Enter the second number: "))
