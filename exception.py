@@ -7,7 +7,13 @@ ValueError
 ZeroDivisionError
 If no error occurs, print the result.
 Always print:
-Thank you for using the calculator.
+    Thank you for using the calculator.
+Use:
+
+try
+except
+else
+finally
 """
 
 
