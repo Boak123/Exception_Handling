@@ -12,7 +12,7 @@ Use:
 
 try:
 except:
-else:
+else
 finally
 """
 
