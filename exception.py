@@ -12,8 +12,8 @@ Use:
 
 try:
 except:
-else
-finally
+else:
+finally:
 """
 
 
