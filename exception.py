@@ -10,7 +10,7 @@ Always print:
     Thank you for using the calculator.
 Use:
 
-try:
+try
 except
 else
 finally
