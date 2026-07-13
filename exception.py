@@ -11,7 +11,7 @@ Always print:
 Use:
 
 try:
-except:
+except
 else
 finally
 """
